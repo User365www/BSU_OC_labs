@@ -1,0 +1,5 @@
+﻿  Matrix_channel.cpp
+G:\BSU_OC_labs\Windows_labs\lab_01\Matrix_channel\Matrix_channel\Matrix_channel.cpp(56,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\BSU_OC_labs\Windows_labs\lab_01\Matrix_channel\Matrix_channel\Matrix_channel.cpp(74,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\BSU_OC_labs\Windows_labs\lab_01\Matrix_channel\Matrix_channel\Matrix_channel.cpp(93,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Matrix_channel.vcxproj -> G:\BSU_OC_labs\Windows_labs\lab_01\Matrix_channel\Matrix_channel\x64\Debug\Matrix_channel.exe
